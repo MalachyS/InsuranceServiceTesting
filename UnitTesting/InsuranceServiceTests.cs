@@ -4,7 +4,7 @@ using UnitTesting;
 namespace UnitTesting2.Tests
 {
     [TestFixture]
-    public class InsuranceServiceTests
+    public class InsuranceTests
     {
         [TestFixture]
         public class InsuranceServiceTests
